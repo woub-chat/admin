@@ -4,7 +4,7 @@
     "type": "library",
     "keywords": [
         "laravel",
-        "admin",
+        "admin"
     ],
     "license": "MIT",
     "prefer-stable": true,
