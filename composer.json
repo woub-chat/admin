@@ -11,9 +11,9 @@
     "require": {
         "php": "^8.0|^8.1",
         "ext-pdo": "*",
-        "woub-cha/entity": "*",
-        "woub-cha/repository": "^1.0",
-        "woub-cha/embedded-call": "^1.0",
+        "woub-chat/entity": "*",
+        "woub-chat/repository": "^1.0",
+        "woub-chat/embedded-call": "^1.0",
         "maatwebsite/excel": "^3.1.37",
         "laravel/framework": "^8.0|^9.0|^10.0|^11.0",
         "composer/composer": "^1.9|^2.0",
